@@ -1,0 +1,1 @@
+data = '[{ "email": "abc@gmail.com", "pwd": "abc123" },{"email": "abc1@gmail.com","pwd": "abc123"},{"email": "abc2@gmail.com","pwd": "abc123"}]';
